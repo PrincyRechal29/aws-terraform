@@ -1,6 +1,6 @@
 variable "ami_id" {
     type = string
-    description = "Enter the ami id for the instance"
+    description = "Enter the ami_id for the instance"
     default = "ami-019374baf467d6601"
   
 }
